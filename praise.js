@@ -10,7 +10,7 @@ const FONTS = [
   { family: "'Noto Sans JP'", weight: 900 },       // 源ノ角ゴシックJP Heavy
   { family: "'Potta One'", weight: 400 },            // ポッタ       
   { family: "'Kaisei HarunoUmi'", weight: 700 },    // 解星 春の海Bold
-  { family: "'Noto Sans JP", weight: 400 }, // Noto Sans JP
+  { family: "'Noto Sans JP'", weight: 400 },  // 源ノ角ゴシックJP Regular
 ];
 
 const PRAISES = [
