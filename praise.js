@@ -12,7 +12,7 @@ const FONTS = [
   { family: "'Potta One'", weight: 400 },            // ポッタ
   { family: "'Aoboshi One'", weight: 400 },          // あおぼし
   { family: "'Kaisei HarunoUmi'", weight: 700 },    // 解星 春の海Bold
-  { family: "'Heisei Maru Gothic W4', sans-serif", weight: 400 }, // 平成丸ゴシックWB
+  { family: "'Noto Sans JP', sans-serif", weight: 400 }, // 平成丸ゴシックWB
 ];
 
 const PRAISES = [
