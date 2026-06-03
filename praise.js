@@ -6,13 +6,11 @@ const SHADOWS = [
   'rgba(64, 98, 187, 0.45)',
 ];
 
-// 平成丸ゴシックWBはPC本体へのインストールが必要（有償ライセンス）
 const FONTS = [
   { family: "'Noto Sans JP'", weight: 900 },       // 源ノ角ゴシックJP Heavy
-  { family: "'Potta One'", weight: 400 },            // ポッタ
-  { family: "'Aoboshi One'", weight: 400 },          // あおぼし
+  { family: "'Potta One'", weight: 400 },            // ポッタ       
   { family: "'Kaisei HarunoUmi'", weight: 700 },    // 解星 春の海Bold
-  { family: "'Noto Sans JP', sans-serif", weight: 400 }, // 平成丸ゴシックWB
+  { family: "'Noto Sans JP', sans-serif", weight: 400 }, // Noto Sans JP
 ];
 
 const PRAISES = [
